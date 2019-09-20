@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halo8880/simple-memo/static/css/main.9bad68fe.chunk.css",
+    "main.js": "/halo8880/simple-memo/static/js/main.9a6e8298.chunk.js",
+    "main.js.map": "/halo8880/simple-memo/static/js/main.9a6e8298.chunk.js.map",
+    "runtime~main.js": "/halo8880/simple-memo/static/js/runtime~main.bdd018cf.js",
+    "runtime~main.js.map": "/halo8880/simple-memo/static/js/runtime~main.bdd018cf.js.map",
+    "static/js/2.b075873a.chunk.js": "/halo8880/simple-memo/static/js/2.b075873a.chunk.js",
+    "static/js/2.b075873a.chunk.js.map": "/halo8880/simple-memo/static/js/2.b075873a.chunk.js.map",
+    "index.html": "/halo8880/simple-memo/index.html",
+    "precache-manifest.efff94495e9c8f1cda31b6849e61d92f.js": "/halo8880/simple-memo/precache-manifest.efff94495e9c8f1cda31b6849e61d92f.js",
+    "service-worker.js": "/halo8880/simple-memo/service-worker.js",
+    "static/css/main.9bad68fe.chunk.css.map": "/halo8880/simple-memo/static/css/main.9bad68fe.chunk.css.map"
+  }
+}
